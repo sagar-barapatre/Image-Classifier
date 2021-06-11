@@ -1,5 +1,5 @@
 # MERN CRUD Blogging App
-# [Live](https://mernbloggingapp.herokuapp.com/)
+# [Live](https://mern-crud-assignment.herokuapp.com)
 ### Front-End - React + Redux
 ### Back-End - Node.js(Express.js) & MongoDB
 
